@@ -29,6 +29,10 @@ The TMP36 sensor reads temperature values and sends analog data to Arduino UNO. 
 ## Project Output
 - LED OFF for normal temperature
 - LED ON for high temperature
+- 
+## Demo Video
+
+If the video does not play directly in GitHub, please download the video to watch the project demonstration.
 
 ## Author
 B.Meghana
